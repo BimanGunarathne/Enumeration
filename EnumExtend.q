@@ -1,4 +1,4 @@
-\l Enumeratioe.q
+\l Enumerate.q
 
 brands //our original enumeration domain
 `uniqBrands?upper `huawe,brands // adding our new brand name to the brands
@@ -13,3 +13,6 @@ ourNewEnum
 ourNewEnum2
 
 last key `:.
+
+`ourNewEnum2?`g# upper `dell,brands //preserves the group attribute
+`ourNewEnum2$`g# upper `dell,brands
