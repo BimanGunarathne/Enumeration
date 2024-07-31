@@ -11,3 +11,5 @@ ourNewEnum
 `ourNewEnum2 in key `.
 `:ourNewEnum2?upper `dell,brands //enumerating against a file handle creates this on disk and also as a variable
 ourNewEnum2
+
+last key `:.
